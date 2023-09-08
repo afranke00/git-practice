@@ -1,1 +1,3 @@
 f1 text
+newfile_line
+newfile_line2
